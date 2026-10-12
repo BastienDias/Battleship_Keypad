@@ -1,5 +1,5 @@
 SI TU CHERCHE UNE BASE POUR UTILISER LES PLATEAUX C'EST DANS LE "how_to_use_adafruits.md".
-Bonne chance -Le mec qu'était là avant.
+Bonne chance
 
 
 ### Environnement requis
